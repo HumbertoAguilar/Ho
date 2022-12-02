@@ -3,7 +3,7 @@ function setup(){
 
     player=createButton('1 Player')
     player.position(550,250);
-    player2=createButton('2 Player')
+    player2=createButton('2 Players')
     player2.position(550,350)
     controls=createButton('Controls')
     controls.position(550,450)
